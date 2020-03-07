@@ -1,1 +1,3 @@
 # auto-messages
+
+A simple Discord webhook which aim is to send deleting messages in the #server-rules room...
